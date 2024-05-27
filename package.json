@@ -1,0 +1,20 @@
+{
+  "name": "webhook-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "express": "^4.19.2",
+    "localtunnel": "^2.0.2",
+    "ngrok": "^5.0.0-beta.2"
+  }
+}
