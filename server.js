@@ -6,7 +6,7 @@ const { exec } = require('child_process');
 const app = express();
 const port = 80;
 
-const WEBHOOK_SECRET = 'your-secret-webhook';
+const WEBHOOK_SECRET = 'my-secret-webhook';
 
 app.use(bodyParser.json());
 
